@@ -1,7 +1,7 @@
-import 'package:app_test_responsive/widgets/body_tablet.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
+import 'body_tablet.dart';
 import 'custom_drawer.dart';
 
 class BodyDesktop extends StatelessWidget {
