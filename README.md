@@ -34,4 +34,4 @@ To run the project locally:
    flutter run
    ```
 
-  ```
+
